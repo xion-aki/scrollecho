@@ -610,9 +610,9 @@ assets:
     'xwayland=2:1.19.6-1ubuntu4.6', 'xxd=2:8.0.1453-1ubuntu1.3', xz-utils=5.2.2-1.3,
     yelp=3.26.0-1ubuntu2, yelp-xsl=3.20.1-4, zeitgeist-core=1.0-0.1ubuntu1, zenity=3.28.1-1,
     zenity-common=3.28.1-1, zip=3.0-11build1, 'zlib1g=1:1.2.11.dfsg-0ubuntu2']
-  installed-snaps: [hello-world=29, gnome-calculator=826, gnome-3-34-1804=60, gnome-logs=100,
-    core=9993, gtk-common-themes=1506, gnome-system-monitor=148, scrollecho=x3, core18=1885,
-    gnome-3-28-1804=145, ppap=x1, gnome-characters=570]
+  installed-snaps: [gnome-characters=570, ppap=x1, core18=1885, gtk-common-themes=1506,
+    core=9993, hello-world=29, scrollecho=x3, gnome-system-monitor=148, gnome-calculator=826,
+    gnome-3-28-1804=145, gnome-3-34-1804=60, gnome-logs=100]
   uname: 'Linux 5.4.0-48-generic #52~18.04.1-Ubuntu SMP Thu Sep 10 12:50:22 UTC 2020
     x86_64 x86_64 x86_64 GNU/Linux'
 extracted_metadata:
