@@ -1,0 +1,17 @@
+name: xion-test-1
+version: 0.1
+summary: Echo command with scrolling
+description: Echo command with scrolling.
+grade: stable
+confinement: strict
+apps:
+    scrollecho:
+          command: scrollecho
+#          passthrough:
+#            autostart: scrollecho  "***" 100
+parts:
+    scrollecho:
+          source: .
+          plugin: dump
+          organize:
+             scrollecho.sh: scrollecho
